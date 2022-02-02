@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=tonkawa-vip&client_id=baadfe1f6d7438816e57c986f7c9171b" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=tonkawa-vip&client_id=ed80d7c05ab54b5467cc498c95b1087c" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
