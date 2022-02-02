@@ -1,9 +1,9 @@
-<?php require_once __DIR__ . '/../../grandtraverse-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../tonkawa-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>VIP Preferred Rewards</title>
-    <?php require_once __DIR__ . '/../../grandtraverse-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../tonkawa-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=grandtraverse&client_id=079e124ac6be5b2058948506f20af0f7" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=tonkawa-vip&client_id=baadfe1f6d7438816e57c986f7c9171b" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
